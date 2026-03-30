@@ -167,4 +167,4 @@ table = str.maketrans("a", "x")
 
 # 42. maketrans()
   # Create translation table
-str.maketrans("abc", "xyz")
+str.maketrans("abc", "xyz") # "abc":"xyz"
