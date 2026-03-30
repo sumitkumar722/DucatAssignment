@@ -17,7 +17,7 @@
 "hello".capitalize()  # 'Hello'
 
 # 5. swapcase()
-# Swap upper ↔ lower
+# Swap upper - lower
 "HeLLo".swapcase()  # 'hEllO'
 
 # 6. strip()
